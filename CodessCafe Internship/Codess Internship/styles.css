@@ -1,0 +1,26 @@
+body {
+  background-color: #e0d8df;
+  opacity: 1;
+
+  background-size: 80px 80px;
+  background-position: 0 0, 40px 40px;
+}
+h1 {
+  text-align: center;
+
+  color: #5d52f2;
+}
+h2 {
+  text-align: center;
+}
+.container {
+  box-shadow: 0 4px 8px 0 rgba(111, 7, 247, 0.2),
+    0 6px 20px 0 rgba(85, 52, 126, 0.19);
+}
+
+#beverage,
+#chocolate,
+#vacation {
+  margin-top: 20%;
+  margin-bottom: 15%;
+}

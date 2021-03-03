@@ -1,0 +1,10 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "papaparse": {
+      "version": "file:papaparse",
+      "integrity": "sha512-Lb7jN/4bTpiuGPrYy4tkKoUS8sTki8zacB5ke1p5zolhcSE4TlWgrlsxjrDTbG/dFVh07ck7X36hUf/b5V68pg=="
+    }
+  }
+}
